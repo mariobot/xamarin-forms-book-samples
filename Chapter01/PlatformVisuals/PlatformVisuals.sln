@@ -1,7 +1,6 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatformVisuals", "PlatformVisuals\PlatformVisuals\PlatformVisuals.csproj", "{6D20A88C-A4A2-487A-BB1A-614BF9F11BD3}"
 EndProject
@@ -414,5 +413,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 4ae77936-3d90-404b-bf2c-b457bc60194b
 	EndGlobalSection
 EndGlobal
